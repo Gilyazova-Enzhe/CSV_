@@ -1664,7 +1664,7 @@ AskAPatient.fold-6.test,21496011000036106,prednisone,Prednisone,C0065967 C003295
 AskAPatient.fold-6.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-6.test,36031001,Burning feet,ankles and the soles of my feet feels like I was walking on hot coals,C0231772,C0016504 C2368355 C0230463 C2346415 C0013987,
 AskAPatient.fold-6.test,42345000,Polyneuropathy,polyneuropathy,C0751862 C0152025,C0276588 C1384686 C0152025,C0152025 
-AskAPatient.fold-6.test,271835004,Abdominal distension, gaseous,stomach is bloated, with excess gas,C0235698,C0038351 C0596601,
+AskAPatient.fold-6.test,271835004,Abdominal distension gaseous,stomach is bloated with excess gas,C0235698,C0038351 C0596601,
 AskAPatient.fold-6.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-6.test,55300003,Muscle cramp,severe cramping,C0026821,C1446787 C0026821 C1306232,C0026821 
 AskAPatient.fold-6.test,418290006,Itching,itching,C0033774,C0231530 C0033774,C0033774 

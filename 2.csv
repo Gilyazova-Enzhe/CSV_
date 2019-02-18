@@ -941,7 +941,7 @@ AskAPatient.fold-5.test,131148009,Bleeding,bleeding,C0019080,C0019080,C0019080
 AskAPatient.fold-5.test,288231001,Myalgia/myositis - lower leg,debilitating muscle pain in my legs,C1140621 C0027121 C0230446 C0231528,C1140621 C1963177 C0231528,C1140621 C0231528 
 AskAPatient.fold-5.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C0030193 
 AskAPatient.fold-5.test,288335007,Difficulty lifting,could hardly lift a glass,C0565676,C0181620,
-AskAPatient.fold-5.test,386692008,Menorrhagia,clotting, and horrible periods,C0025323,C0025344 C1328723 C0005790,
+AskAPatient.fold-5.test,386692008,Menorrhagia,clotting and horrible periods,C0025323,C0025344 C1328723 C0005790,
 AskAPatient.fold-5.test,21343011000036103,atorvastatin,atorvastatin,C0286651,C0286651,C0286651 
 AskAPatient.fold-5.test,162076009,Excessive upper gastrointestinal gas,gastritis,C0426623 C0426624,C0017152 C1277259,
 AskAPatient.fold-5.test,57676002,Arthralgia,joint pain,C0003862,C0003862 C1963066,C0003862 

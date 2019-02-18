@@ -3077,7 +3077,7 @@ AskAPatient.fold-8.test,289530006,Vaginal bleeding,bleeding from the vagina,C056
 AskAPatient.fold-8.test,68962001,Myalgia,muscle aches,C0231528,C0231528,C0231528 
 AskAPatient.fold-8.test,271782001,Drowsy,drowsy,C0013144,C0013144,C0013144 
 AskAPatient.fold-8.test,286755001,Impatient character,impatient,C0564565 C0564566,C1256245,
-AskAPatient.fold-8.test,103002009,Sensation of hot and cold,freezing cold,like arms plunged into freezing water then burning sensations,C0522245,C0241660 C0241057 C0234192 C0239814 C0578504 C0234655 C0857336 C2239188 C0241413 C0446516 C0043047 C0009443 C0085624,
+AskAPatient.fold-8.test,103002009,Sensation of hot and cold,freezing cold like arms plunged into freezing water then burning sensations,C0522245,C0241660 C0241057 C0234192 C0239814 C0578504 C0234655 C0857336 C2239188 C0241413 C0446516 C0043047 C0009443 C0085624,
 AskAPatient.fold-8.test,45352006,Spasm,spasms in upper thighs,C0026821 C0037763,C0037763 C0039866,C0037763 
 AskAPatient.fold-8.test,48167000,Amnesia,memory loss,C0002622 C3824794,C0002622 C0751295,C0002622 
 AskAPatient.fold-8.test,26544005,Muscle weakness,muscle weakness,C0030552 C0151786 C1834451,C0240479 C2673994 C0151786 C0150841 C0586738 C0587246 C0030552 C1834451 C1168241 C0239831,C0151786 C0030552 C1834451 

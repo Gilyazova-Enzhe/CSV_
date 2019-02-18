@@ -329,7 +329,7 @@ AskAPatient.fold-5.test,86651002,Pulse fast,rapid pulse,C0039231,C0039231,C00392
 AskAPatient.fold-5.test,16046003,Muscle rigidity,muscles stiff,C0026837,C0221170,
 AskAPatient.fold-5.test,102556003,Pain in upper limb,Pain in arms,C0239377,C0030193 C1882272 C2598155 C0446516,
 AskAPatient.fold-5.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
-AskAPatient.fold-5.test,76948002,Severe pain,ache was extreme, almost unbearable,C0278140,C0234238,
+AskAPatient.fold-5.test,76948002,Severe pain,ache was extreme almost unbearable,C0278140,C0234238,
 AskAPatient.fold-5.test,6205011000036102,Lipitor 20 mg tablet: film-coated,Lipitor 20mg,C0593906,C0593906,C0593906 
 AskAPatient.fold-5.test,161873000,Heavy legs,felt like I had lead in my legs,C0581911,C1140621 C1442948,
 AskAPatient.fold-5.test,57676002,Arthralgia,joint pain,C0003862,C1963066 C0003862,C0003862 

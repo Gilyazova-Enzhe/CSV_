@@ -2111,7 +2111,7 @@ AskAPatient.fold-7.test,68962001,Myalgia,muscle pain,C0231528,C0231528 C1963177,
 AskAPatient.fold-7.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-7.test,76948002,Severe pain,severe abdonimal pain,C0278140,C1306232 C0030193,
 AskAPatient.fold-7.test,284143002,Difficulty moving arm,could not lift arm,C0578673 C0561986 C0561997 C0563333,C0181620 C1140618 C0446516,
-AskAPatient.fold-7.test,449917004,Cramp in lower limb,cramping in both quads (above knee, back of leg),C3266180 C3266179,C0026821 C1140621 C0022742 C1446787,
+AskAPatient.fold-7.test,449917004,Cramp in lower limb,cramping in both quads (above knee back of leg),C3266180 C3266179,C0026821 C1140621 C0022742 C1446787,
 AskAPatient.fold-7.test,49218002,Hip pain,hip pain,C0030193,C0267028 C0019559 C1963082,
 AskAPatient.fold-7.test,202472008,Hand joint pain,joints in my hands hurt,C0423665,C0018563,
 AskAPatient.fold-7.test,102556003,Pain in upper limb,pain in my arm and shoulder,C0239377,C1283792 C0030193 C1140618 C0037004 C0869975 C0524469 C0524468 C0446516,

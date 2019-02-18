@@ -2599,7 +2599,7 @@ AskAPatient.fold-7.test,3723001,Arthritis,Arthritis,C0003864 C3267876,C0003864 C
 AskAPatient.fold-7.test,699376002,Lip swelling,lips started to swell,C0240211 C0239958,C0023759 C0038999,
 AskAPatient.fold-7.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-7.test,45326000,Shoulder pain,shouldar ache,C0423670 C0037011,C0234238,
-AskAPatient.fold-7.test,309521004,Numbness of hand,prickling,numbness in hand,C0239832,C0239832 C0439814,C0239832 
+AskAPatient.fold-7.test,309521004,Numbness of hand,prickling numbness in hand,C0239832,C0239832 C0439814,C0239832 
 AskAPatient.fold-7.test,44077006,Numbness,numb,C0028643 C0020580,,
 AskAPatient.fold-7.test,161876008,Gland symptom,neck swollen,C0424818,C0027530 C2137077 C0038999,
 AskAPatient.fold-7.test,48532005,Muscle strain,muscle pull,C0080194,C0080194,C0080194 

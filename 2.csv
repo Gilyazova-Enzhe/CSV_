@@ -1144,7 +1144,7 @@ AskAPatient.fold-6.test,25064002,Headache,headaches,C0018681 C2096315,C0018681 C
 AskAPatient.fold-6.test,162031009,Indigestion,indigestion,C0012238 C0013395,C0012238 C0426634 C0013395,C0012238 C0013395 
 AskAPatient.fold-6.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-6.test,48167000,Amnesia,Memory loss,C0002622 C3824794,C0002622 C0751295,C0002622 
-AskAPatient.fold-6.test,46991000,Absent minded,Absent mindendness,,C0424537,,
+AskAPatient.fold-6.test,46991000,Absent minded,Absent mindendness,C0424537,,
 AskAPatient.fold-6.test,3210011000036104,Lexapro,Lexapro,C1170371,C1170371,C1170371 
 AskAPatient.fold-6.test,102551008,Cramp in foot,Severe cramps in toes,C0178422,C4050465 C0264097 C4050466 C0040357 C0026821 C1547231 C1547227 C1561581,
 AskAPatient.fold-6.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 

@@ -3683,7 +3683,7 @@ AskAPatient.fold-8.test,224960004,Tired,tiredness is at a high level,C0557875,C0
 AskAPatient.fold-8.test,77436011000036106,fish oil natural,fish oil,C0016157,C0016157,C0016157 
 AskAPatient.fold-8.test,21821011000036104,codeine,Codeine,C0009214,C0524087 C0009214,C0009214 
 AskAPatient.fold-8.test,36031001,Burning feet,ball of the foot would feel as if it was inflamed,C0231772,C1279650 C0230466 C0013987,
-AskAPatient.fold-8.test,95847005,Muscle injury,permanent, irreversible muscle damage,C0410256 C1998242,C0010957,
+AskAPatient.fold-8.test,95847005,Muscle injury,permanent irreversible muscle damage,C0410256 C1998242,C0010957,
 AskAPatient.fold-8.test,62315008,Diarrhoea,diarrhea,C0011991 C0474498,C1963091 C0011991,C0011991 
 AskAPatient.fold-8.test,57676002,Arthralgia,Joint pain,C0003862,C0003862 C1963066,C0003862 
 AskAPatient.fold-8.test,60119000,Exhaustion,exhaustion,C0392674,C0392674,C0392674 

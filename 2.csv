@@ -3503,7 +3503,7 @@ AskAPatient.fold-8.test,68962001,Myalgia,Muscle Pain,C0231528,C0231528,C0231528
 AskAPatient.fold-8.test,271807003,Rash,skin rash,C0015230,C0015230,C0015230 
 AskAPatient.fold-8.test,68962001,Myalgia,muscle pain,C0231528,C1963177 C0231528,C0231528 
 AskAPatient.fold-8.test,3559011000036109,Zoloft,zoloft,C0284660,,
-AskAPatient.fold-8.test,82991003,Generalised aches and pains,ached all over, especially in legs,C0281856,C1140621,
+AskAPatient.fold-8.test,82991003,Generalised aches and pains,ached all over especially in legs,C0281856,C1140621,
 AskAPatient.fold-8.test,60238002,Muscle twitch,Muscle twitching,C0231530,C0015644 C0231530,C0231530 
 AskAPatient.fold-8.test,21465011000036101,lisinopril,Lisinopril,C0065374,C0065374,C0065374 
 AskAPatient.fold-8.test,77692006,Hypersomnia,Just wanted to sleep,C0917799,C0424522 C0013144 C0037313,

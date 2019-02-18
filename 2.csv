@@ -4549,7 +4549,7 @@ AskAPatient.fold-9.test,415690000,Sweating,sweating,C0038990,C0038990,C0038990
 AskAPatient.fold-9.test,10601006,Pain in lower limb,in both legs pain,C0023222 C0839480,C0030193 C1140621,
 AskAPatient.fold-9.test,68962001,Myalgia,muscle pain,C0231528,C1963177 C0231528,C0231528 
 AskAPatient.fold-9.test,25064002,Headache,headaches,C2096315 C0018681,C2096315 C0018681,C2096315 C0018681 
-AskAPatient.fold-9.test,68962001,Myalgia,muscle aches,,C0231528,C0231528,C0231528 
+AskAPatient.fold-9.test,68962001,Myalgia,muscle aches,C0231528,C0231528,C0231528 
 AskAPatient.fold-9.test,249913002,Knee stiff,stiffness in both knees,C0240129,C0022742 C0427008,
 AskAPatient.fold-9.test,288231001,Myalgia/myositis - lower leg,Very painful muscle aches in calves,C1140621 C0027121 C0230446 C0231528,C0030193 C0231528,C0231528 
 AskAPatient.fold-9.test,267052005,Flatulence/wind,flatulence,C0016204,C1962956 C0016204,C0016204 

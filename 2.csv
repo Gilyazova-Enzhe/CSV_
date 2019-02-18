@@ -3085,7 +3085,7 @@ AskAPatient.fold-8.test,26929004,Alzheimer's disease,alzheimers,C0002395 C047736
 AskAPatient.fold-8.test,282145008,Unable to walk,not being able to walk,C0560046,C1299581,
 AskAPatient.fold-8.test,68962001,Myalgia,painful muscles,C0231528,C0030193,
 AskAPatient.fold-8.test,26413003,Low motivation,unmotivated,C0558078,C0520941,
-AskAPatient.fold-8.test,271832001,Flatulence, eructation and gas pain,gas pains around my abdomen,C0476289 C1962956 C0016204 C0014724,C0476289 C0230168 C0000726,C0476289 
+AskAPatient.fold-8.test,271832001,Flatulence eructation and gas pain,gas pains around my abdomen,C0476289 C1962956 C0016204 C0014724,C0476289 C0230168 C0000726,C0476289 
 AskAPatient.fold-8.test,271587009,Stiffness,stiffness,C0427008,C0427008,C0427008 
 AskAPatient.fold-8.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-8.test,10601006,Pain in lower limb,leg pains,C0023222 C0839480,C0030193 C1140621,

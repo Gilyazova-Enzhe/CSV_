@@ -4577,7 +4577,7 @@ AskAPatient.fold-9.test,162076009,Excessive upper gastrointestinal gas,GERD,C042
 AskAPatient.fold-9.test,55300003,Muscle cramp,mild cramping,C0026821,C1446787 C0026821,C0026821 
 AskAPatient.fold-9.test,473008002,Pain in cheek,Sores on the inner cheeks,C0238973,C0007966,
 AskAPatient.fold-9.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
-AskAPatient.fold-9.test,387603000,Impairment of balance,,lack of balance and cooridination,C0241981,C2174421 C1397014 C0014653 C3497399 C0542274 C0179199,
+AskAPatient.fold-9.test,387603000,Impairment of balance,lack of balance and cooridination,C0241981,C2174421 C1397014 C0014653 C3497399 C0542274 C0179199,
 AskAPatient.fold-9.test,301345002,Difficulty sleeping,could not sleep well,C0235162 C3641752,C0424522 C0013144 C0037313,
 AskAPatient.fold-9.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-9.test,77424011000036100,ubidecarenone,CoQ10,C0056077,C0056077,C0056077 

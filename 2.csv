@@ -3341,7 +3341,7 @@ AskAPatient.fold-8.test,22253000,Pain,pain,C0030193 C1882272 C2598155,C0030193,C
 AskAPatient.fold-8.test,77424011000036100,ubidecarenone,coq10,C0056077,C0056077,C0056077 
 AskAPatient.fold-8.test,230645003,Compression neuropathy of trunk,pinched nerve in my back,C0393896,C0273482,
 AskAPatient.fold-8.test,3877011000036101,Lipitor,lipitor,C0593906,C0593906,C0593906 
-AskAPatient.fold-8.test,68962001,Myalgia,terrible, migratory joint pain all over my body,C0231528,C0152338 C0221597,
+AskAPatient.fold-8.test,68962001,Myalgia,terrible migratory joint pain all over my body,C0231528,C0152338 C0221597,
 AskAPatient.fold-8.test,3877011000036101,Lipitor,Lipitor,C0593906,C0593906,C0593906 
 AskAPatient.fold-8.test,3384011000036100,Arthrotec,arthrotec 50,C0210355,C0731334 C0210355,C0210355 
 AskAPatient.fold-8.test,48167000,Amnesia,memory loss,C3824794 C0002622,C0751295 C0002622,C0002622 
